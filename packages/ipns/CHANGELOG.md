@@ -1,5 +1,15 @@
 # Changelog
 
+## [9.2.2](https://github.com/ipfs/helia/compare/ipns-v9.2.1...ipns-v9.2.2) (2026-05-08)
+
+
+### Dependencies
+
+* bump aegir from 47.2.0 to 48.0.1 ([#1015](https://github.com/ipfs/helia/issues/1015)) ([ae98a4f](https://github.com/ipfs/helia/commit/ae98a4f4940310383c2a384cde64f99264326583))
+* The following workspace dependencies were updated
+  * dependencies
+    * @helia/interface bumped from ^6.2.1 to ^6.2.2
+
 ## [9.2.1](https://github.com/ipfs/helia/compare/ipns-v9.2.0...ipns-v9.2.1) (2026-04-10)
 
 

@@ -1,5 +1,15 @@
 # Changelog
 
+## [7.1.2](https://github.com/ipfs/helia/compare/mfs-v7.1.1...mfs-v7.1.2) (2026-05-08)
+
+
+### Dependencies
+
+* bump aegir from 47.2.0 to 48.0.1 ([#1015](https://github.com/ipfs/helia/issues/1015)) ([ae98a4f](https://github.com/ipfs/helia/commit/ae98a4f4940310383c2a384cde64f99264326583))
+* The following workspace dependencies were updated
+  * dependencies
+    * @helia/unixfs bumped from ^7.2.1 to ^7.2.2
+
 ## [7.1.1](https://github.com/ipfs/helia/compare/mfs-v7.1.0...mfs-v7.1.1) (2026-04-10)
 
 

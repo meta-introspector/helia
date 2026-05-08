@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.2.4](https://github.com/ipfs/helia/compare/bitswap-v3.2.3...bitswap-v3.2.4) (2026-05-08)
+
+
+### Dependencies
+
+* bump aegir from 47.2.0 to 48.0.1 ([#1015](https://github.com/ipfs/helia/issues/1015)) ([ae98a4f](https://github.com/ipfs/helia/commit/ae98a4f4940310383c2a384cde64f99264326583))
+* The following workspace dependencies were updated
+  * dependencies
+    * @helia/interface bumped from ^6.2.1 to ^6.2.2
+    * @helia/utils bumped from ^2.5.2 to ^2.5.3
+
 ## [3.2.3](https://github.com/ipfs/helia/compare/bitswap-v3.2.2...bitswap-v3.2.3) (2026-04-15)
 
 
